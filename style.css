@@ -1,0 +1,16 @@
+body {
+    color:aliceblue;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    border: 2px black;
+    border-radius: 5px;
+}
+div{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
